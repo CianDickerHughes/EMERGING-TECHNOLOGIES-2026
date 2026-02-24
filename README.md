@@ -64,6 +64,6 @@ jupyter notebook problems.ipynb
 
 ## References
 
-- [Deutsch-Jozsa Algorithm - IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en/modules/computer-science/deutsch-jozsa)
+- [Deutsch-Jozsa Algorithm - IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en/modules/computer-science/deutsch-jozsa) — Primary reference for understanding the algorithm implemented in Problems 1 and 5.
 - [Qiskit Documentation](https://www.ibm.com/quantum/qiskit)
 - [Quantum Computing Fundamentals](https://quantum.cloud.ibm.com/learning)
