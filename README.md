@@ -71,3 +71,5 @@ jupyter notebook problems.ipynb
 - [Superposition - Caltech Science Exchange](https://scienceexchange.caltech.edu/topics/quantum-science-explained/quantum-superposition)
 - [What is a Quantum Oracle? - Stack Exchange](https://quantumcomputing.stackexchange.com/a/4626)
 - [Quantum Supremacy Explained - Quanta Magazine](https://www.quantamagazine.org/john-preskill-explains-quantum-supremacy-20191002/)
+- [Quantum Circuits - IBM Quantum Learning](https://quantum.cloud.ibm.com/learning/en/courses/basics-of-quantum-information/quantum-circuits/introduction)
+- [Qiskit - IBM](https://www.ibm.com/quantum/qiskit)
