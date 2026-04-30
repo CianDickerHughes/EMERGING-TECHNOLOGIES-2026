@@ -82,7 +82,7 @@ Run the cells in order from top to bottom. Generated circuit diagrams and plots 
 
 - **Python 3** — core language
 - **Jupyter Notebook** — interactive analysis and write-up
-- **Qiskit** (with `qiskit-aer`) — quantum circuit construction and simulation
+- **Qiskit** — quantum circuit construction and statevector simulation
 - **NumPy** — numerical utilities and randomness
 - **Matplotlib** — plotting and circuit visualisation
 
